@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace SeleniumDemo
+namespace SeleniumDemo.Tests
 {
 	[TestFixture]
 	public class TestBase
