@@ -1,6 +1,7 @@
 ﻿using NUnit.Framework;
+using SeleniumDemo.Framework.Pages;
 
-namespace SeleniumDemo
+namespace SeleniumDemo.Tests
 {
 	public class Tests: TestBase
 	{
